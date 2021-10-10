@@ -10,5 +10,5 @@ Storage Systems: Filesystem: IBM Spectrum Scale (General Parallel File System)
 Environment module system 
 Slurm Workload manager
 
-*Supercomputer
+* Supercomputer
   * many CPUs and compute nodes
