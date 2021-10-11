@@ -12,3 +12,8 @@ Slurm Workload manager
 
 * Supercomputer
   * many CPUs and compute nodes
+  * nodes are connected by a high-speed internal network
+  * diskles
+  * access to paralell file system (Lustre, GPFS)
+  * not directly access, login nodes, SSH, a batch scheduler application 
+  * Communication (MPI: message passing interface) between nodes and OpenMP(open multi-processing)
